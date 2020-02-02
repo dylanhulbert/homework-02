@@ -1,8 +1,8 @@
-## DylanHulbert.github.io
+## dylanhulbert.github.io/homework-02
 These pages were created as part of a Bootcamp
 ## Changes
 Had to start over to leverage flexbox
-### Updated for Unit 02: Responsive Portfolio
+### Homework 02: Responsive Portfolio
 * Used flexbox grid
 * Updated the navbar and added sticky footer
 * A responsive layout
